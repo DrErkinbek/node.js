@@ -1,0 +1,19 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "npm manage",
+  "main": "app.js",
+  "scripts": {
+    "test": "no"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "js"
+  ],
+  "author": "Erkinbek",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
